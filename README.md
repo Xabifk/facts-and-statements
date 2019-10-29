@@ -27,7 +27,7 @@ who's going to process them. [Wikipedia article for some help](https://en.wikipe
 	One statement per line. Empty lines are ok and encouraged. 
 	* Where ```thing``` is the main subject of your statement 
 		and ```T/``` is the directory named after the first letter of the word.
-	* If such a file does not exist create it. (all lowercase .stm extention)
+	* If such a file does not exist create it. (all lowercase .stm extension)
 	* If such a directory does not exist create it. (single letter capital)
 	
 * Make a pull-request and wait for me to accept it.
